@@ -1,0 +1,9 @@
+.page{
+    background: #fff;
+    box-sizing: border-box;
+    min-height: 100vh;
+    font-family: 'Raleway';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}   
+    
