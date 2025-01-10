@@ -1,0 +1,10 @@
+.jamborton__button {
+    width: 256px;
+    height: 51px;
+    background: none;
+    border: white 1px solid;
+    font-weight: medium;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: white;
+}

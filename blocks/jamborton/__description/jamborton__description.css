@@ -1,0 +1,8 @@
+.jamborton__description {
+    position: absolute;
+    inset: 655px 50px 51px 78px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 79px;
+}

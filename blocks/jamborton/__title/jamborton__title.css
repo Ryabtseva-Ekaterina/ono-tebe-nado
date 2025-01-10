@@ -1,0 +1,10 @@
+.jamborton__title {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 100px;
+    font-weight: bold;
+    position: absolute;
+    inset: 165px 50px 0 50px;
+    width: 1000px;
+}

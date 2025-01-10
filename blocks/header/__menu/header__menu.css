@@ -1,7 +1,7 @@
 .header__menu {
     display: flex;
     flex-direction: row;
-    gap: 13px;
-    margin: 0 40px 0 40px;
     width: 391px;
+    list-style: circle;
+    gap: 14px;
 }
