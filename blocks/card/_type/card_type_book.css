@@ -1,0 +1,5 @@
+.card_type_book {
+    background-image: url(/images/book.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}

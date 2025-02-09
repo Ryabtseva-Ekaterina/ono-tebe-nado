@@ -1,0 +1,8 @@
+.card__text {
+    z-index: 1;
+    font-size: 20px;
+    font-weight: normal;
+    padding-bottom: 48px;
+    width: 254px;
+    line-height: 120%;
+}

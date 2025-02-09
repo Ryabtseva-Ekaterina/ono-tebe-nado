@@ -1,0 +1,10 @@
+.lots__look-more-link{
+    font-size: 20px;
+    font-weight: normal;
+    text-decoration: underline;
+    padding-left: 40px;
+}
+
+.lots__look-more-link:hover{
+    cursor: pointer;
+}

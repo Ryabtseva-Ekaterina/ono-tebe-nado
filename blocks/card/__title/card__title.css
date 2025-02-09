@@ -1,0 +1,9 @@
+.card__title {
+    z-index: 1;
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 51px;
+    width: 254px;
+    line-height: 120%;
+    text-decoration: underline;
+}

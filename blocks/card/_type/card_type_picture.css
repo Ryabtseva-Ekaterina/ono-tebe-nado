@@ -1,0 +1,5 @@
+.card_type_picture {
+    background-image: url(/images/picture.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
