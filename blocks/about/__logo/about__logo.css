@@ -1,0 +1,9 @@
+.about__logo {
+    width: 240 px;
+    height: 240px;
+    padding-left: 47px;
+}
+
+.about__logo:hover {
+   cursor: pointer;
+}

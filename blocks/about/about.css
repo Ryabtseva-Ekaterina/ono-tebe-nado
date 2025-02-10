@@ -1,0 +1,9 @@
+.about {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr;
+    width: 1052px;
+    height: 595px;;
+    margin: 0 auto;
+    gap: 72px;
+}

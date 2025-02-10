@@ -29,3 +29,9 @@
 @import url('/blocks/card/__text/card__text.css');
 @import url('/blocks/card/__link/card__link.css');
 @import url('/blocks/lots/__look-more-link/lots__look-more-link.css');
+@import url('/blocks/about/about.css');
+@import url('/blocks/about/__logo/about__logo.css');
+@import url('/blocks/about/__logo-image/about__logo-image.css');
+@import url('/blocks/about/__column/about__column.css');
+@import url('/blocks/about/__title/about__title.css');
+@import url('/blocks/about/__text/about__text.css');

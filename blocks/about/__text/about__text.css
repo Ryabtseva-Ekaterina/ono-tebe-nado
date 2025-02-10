@@ -1,0 +1,9 @@
+.about__text {
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 24px;
+}
+
+.about__text:first-of-type{
+    padding-top: 71px;
+}
