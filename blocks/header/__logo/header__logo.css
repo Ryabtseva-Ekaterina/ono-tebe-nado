@@ -3,6 +3,7 @@
     width: 148px;
     height: 105px;
     object-fit: cover;
+    background-repeat:no-repeat;
     align-self: center;
-    align-self: center;
+    padding-right: 184px;
 }
