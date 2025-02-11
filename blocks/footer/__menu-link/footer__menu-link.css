@@ -2,4 +2,6 @@
     display: block;
     text-align: center;
     text-decoration: underline;
+    min-height: 22px;
+    font-size: 18px;
 }

@@ -3,5 +3,6 @@
     flex-direction: row;
     width: 391px;
     list-style: circle;
-    gap: 14px;
+    gap: 22px;
+    padding: 5px 0 0 26px;
 }
