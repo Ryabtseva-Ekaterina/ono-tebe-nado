@@ -43,3 +43,5 @@
 @import url('/blocks/footer/__social-list-item/footer__social-list-item.css');
 @import url('/blocks/footer/__social-link/footer__social-link.css');
 @import url('/blocks/footer/__social-icon/footer__social-icon.css');
+@import url('/blocks/letter-spacing-extenden/letter-spacing-extended.css');
+@import url('/blocks/aligned-text/aligned-text-right.css');
